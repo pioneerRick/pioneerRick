@@ -4,6 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pioneerRick&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
+[![个人博客](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E4%B8%89%E8%91%89%E7%A7%8B%E6%B0%B4-%23800080)](http://www.mitsubanoakizu.top/)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E4%B8%89%E8%91%89%E7%A7%8B%E6%B0%B4-green)](https://www.zhihu.com/people/28-38-3-95-54)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@greylittle8032)
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
